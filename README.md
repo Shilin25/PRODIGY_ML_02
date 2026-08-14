@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# CUSTOMER_SEGMENTATION
 Implementation of K-Means clustering for retail customer segmentation using annual income and spending score features to identify distinct purchasing behavior groups.
 
 ## Dataset
